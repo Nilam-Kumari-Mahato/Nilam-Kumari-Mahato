@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @Nilam-Kumari-Mahato
-- 👀 I’m interested in learning and building stuffs 
-- 🌱 Mastering javascript and learning React
-<!---
-Nilam-Kumari-Mahato/Nilam-Kumari-Mahato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, I'm Nilam Kumari
+# 💫 About Me:
+
+🎓 B.Tech in Computer Science at Asansol Engineering College.
+
+🔭 I’m currently learning Full Stack Web Development  
+
+🌱 Skills: HTML • CSS • JavaScript • React • C • Java • DSA
+
+🎯 Aspiring to become a full-stack developer
+
+💬 Ask me about frontend development or anything tech!  
+
+#  🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/nilam-kumari-mahato-5a2710307)
+
