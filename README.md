@@ -7,7 +7,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilam-kumari-mahato-5a2710307)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=nilamkumari&style=for-the-badge&color=blueviolet)](https://github.com/)
+
  
 </div>
 ---
