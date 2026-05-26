@@ -1,12 +1,5 @@
 <div align="center">
-```
-███╗   ██╗██╗██╗      █████╗ ███╗   ███╗
-████╗  ██║██║██║     ██╔══██╗████╗ ████║
-██╔██╗ ██║██║██║     ███████║██╔████╔██║
-██║╚██╗██║██║██║     ██╔══██║██║╚██╔╝██║
-██║ ╚████║██║███████╗██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+
  
 ### `< Hello, World! />` &nbsp; I'm **Nilam Kumari** 👩‍💻
  
@@ -53,16 +46,7 @@ const nilam = {
  
 ---
  
-## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nilamkumari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkumari&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165"/>
-</div>
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=nilamkumari&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
- 
-</div>
+
 ---
  
 ## 🎯 Current Focus
